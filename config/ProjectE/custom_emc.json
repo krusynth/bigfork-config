@@ -1,4 +1,152 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "mekanism:otherdust|4",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 1024
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 2
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 1024
+    },
+    {
+      "item": "mekanism:ingot|0",
+      "emc": 1024
+    },
+    {
+      "item": "mekanism:ingot|4",
+      "emc": 320
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:chunk|5",
+      "emc": 8012
+    },
+    {
+      "item": "immersiveengineering:metal|38",
+      "emc": 2048
+    },
+    {
+      "item": "mekanism:dust|2",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|1",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|0",
+      "emc": 256
+    },
+    {
+      "item": "thaumcraft:ore_cinnabar|0",
+      "emc": 128
+    },
+    {
+      "item": "mekanism:otherdust|6",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:otherdust|5",
+      "emc": 256
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 8
+    },
+    {
+      "item": "tconstruct:cast|0",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|69",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|70",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|895",
+      "emc": 64
+    },
+    {
+      "item": "thaumcraft:paving_stone_barrier|0",
+      "emc": 64
+    },
+    {
+      "item": "mekanism:polyethene|0",
+      "emc": 16
+    },
+    {
+      "item": "enderio:item_gas_conduit|2",
+      "emc": 889
+    },
+    {
+      "item": "enderio:item_gas_conduit|0",
+      "emc": 223
+    },
+    {
+      "item": "enderio:item_broken_spawner|0",
+      "emc": 1024
+    },
+    {
+      "item": "industrialforegoing:pink_slime|0",
+      "emc": 64
+    },
+    {
+      "item": "immersiveengineering:material|2",
+      "emc": 512
+    },
+    {
+      "item": "immersiveengineering:metal_decoration1|1",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:metal_decoration1|0",
+      "emc": 512
+    },
+    {
+      "item": "bigreactors:dustyellorium|0",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:metal|14",
+      "emc": 4096
+    },
+    {
+      "item": "immersiveengineering:metal|12",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:metal|13",
+      "emc": 1024
+    },
+    {
+      "item": "immersiveengineering:metal|11",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:ore_fluid|2",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 1024
+    }
+  ]
 }
