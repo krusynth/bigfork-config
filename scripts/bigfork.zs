@@ -260,3 +260,6 @@ mods.thermalexpansion.Centrifuge.addRecipe([(<minecraft:sand> * 1) % 0], <mystic
 // Add a source of prosperity shards, but don't make it too cheap.
 recipes.addShaped("ma_prosperityshards1", <mysticalagriculture:crafting:5> * 64, [[<mysticalagriculture:crafting>,<minecraft:diamond>],[<minecraft:emerald>,<mysticalagriculture:crafting>]]);
 recipes.addShaped("ma_prosperityshards2", <mysticalagriculture:crafting:5> * 64, [[<minecraft:diamond>,<mysticalagriculture:crafting>],[<mysticalagriculture:crafting>,<minecraft:emerald>]]);
+
+// Make item conduits easier, but make less of them.
+recipes.addShaped("enderio_conduit_item_darksteel", <enderio:item_item_conduit> * 3, [[<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>], [<ore:nuggetDarkSteel>, <ore:nuggetDarkSteel>, <ore:nuggetDarkSteel>], [<ore:itemConduitBinder>, <ore:itemConduitBinder>, <ore:itemConduitBinder>]]);
