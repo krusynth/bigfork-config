@@ -129,7 +129,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 20
 			},
-			"cluster-count": 24,
+			"cluster-count": 16,
 			"min-height": 0,
 			"max-height": 128,
 			"retrogen": false,
@@ -148,9 +148,9 @@
 			"generator": {
 				"block": "iron_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 24
 			},
-			"cluster-count": 16,
+			"cluster-count": 24,
 			"min-height": 0,
 			"max-height": 128,
 			"retrogen": false,
@@ -169,9 +169,9 @@
 			"generator": {
 				"block": "gold_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 16
+				"cluster-size": 12
 			},
-			"cluster-count": 10,
+			"cluster-count": 8,
 			"min-height": 0,
 			"max-height": 40,
 			"retrogen": false,
@@ -192,7 +192,7 @@
 				"material": "minecraft:stone",
 				"cluster-size": 16
 			},
-			"cluster-count": 20,
+			"cluster-count": 16,
 			"min-height": 0,
 			"max-height": 128,
 			"retrogen": false,
@@ -211,9 +211,9 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 16
+				"cluster-size": 12
 			},
-			"cluster-count": 20,
+			"cluster-count": 12,
 			"min-height": 0,
 			"max-height": 40,
 			"retrogen": false,
@@ -228,16 +228,15 @@
 		},
 
 		"lapis": {
-			"distribution": "gaussian",
+			"distribution": "uniform",
 			"generator": {
 				"block": "lapis_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 16
+				"cluster-size": 12
 			},
-			"cluster-count": 19,
+			"cluster-count": 12,
 			"min-height": 0,
 			"max-height": 40,
-			"spread": 16,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
