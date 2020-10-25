@@ -1,10 +1,10 @@
-{
-  "keepInventory": {
-    "value": true,
-    "forced": false
-  },
-  "mobGriefing": {
-    "value": false,
-    "forced": false
-  }
+{ 
+	"keepInventory": { 
+		"value": true,
+		"forced": false
+	},
+	"mobGriefing": { 
+		"value": false,
+		"forced": false
+	}
 }
